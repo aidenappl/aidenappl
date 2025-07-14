@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I’m Aiden
 
-<!--
-**aidenappl/aidenappl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science and Business Administration student at Northeastern University, currently based in Boston. I’m passionate about building meaningful software that solves real problems — especially in the areas of AI, backend systems, and product innovation.
 
-Here are some ideas to get you started:
+## 🚀 What I’m Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Trailblaze** – A professional ecosystem for the next generation of workers (Founder & CEO)
+- **SentimentScraper** – A financial news sentiment analysis pipeline using GPT and VADER
+- **Rooted** – A nonprofit discovery platform built on IRS 990 data
+
+## 🛠️ Tech Stack
+
+- **Languages**: Go, TypeScript, Python, SQL, Swift
+- **Frameworks**: React (Next.js), Node.js, Express
+- **Databases**: PostgreSQL, Snowflake, MariaDB
+- **Cloud/Infra**: Docker, AWS, Azure, GitHub Actions
+
+## 📫 How to Reach Me
+
+- 🌐 [aidenappleby.com](https://aidenappleby.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/aidenappleby)
+
+Thanks for stopping by!
