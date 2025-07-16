@@ -4,9 +4,9 @@ I'm a Computer Science and Business Administration student at Northeastern Unive
 
 ## 🚀 What I’m Working On
 - **Trailblaze** – A professional ecosystem for the next generation of workers
-- **SentimentScraper** – A financial news sentiment analysis pipeline using GPT and VADER
-- **Rooted** – A nonprofit discovery platform built on IRS 990 data
-- **OpenBucket** - An OpenSource and lightweight version of S3 (built in go) with a web-based GUI & REST API
+- **SentimentScraper** – A financial news sentiment analysis pipeline using GPT and VADER (Go & Snowflake)
+- **Rooted** – A nonprofit discovery platform built on IRS 990 data (Go & Next)
+- **OpenBucket** - An OpenSource and lightweight version of S3 (go) with a web-based GUI & REST API (Next & Go)
   
 ## 🛠️ Tech Stack
 
