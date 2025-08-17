@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Aiden
 
-I'm a Computer Science and Business Administration student at Northeastern University, currently based in Boston. I’m passionate about building meaningful software that solves real problems — especially in the areas of AI, backend systems, and product innovation.
+I'm a student in Computer Science and Business Administration at Northeastern University, currently based in Boston. I’m passionate about building meaningful software that solves real problems, especially in the areas of AI, backend systems, and product innovation.
 
 ## 🚀 What I’m Working On
 - **Trailblaze** – A professional ecosystem for the next generation of workers
