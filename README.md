@@ -19,5 +19,3 @@ I'm a student in Computer Science and Business Administration at Northeastern Un
 
 - 🌐 [aidenappleby.com](https://aidenappleby.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/aidenappleby)
-
-Thanks for stopping by!
