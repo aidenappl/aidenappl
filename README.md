@@ -4,6 +4,7 @@ I'm a student in Computer Science and Business Administration at Northeastern Un
 
 ## 🚀 What I’m Working On
 - **Trailblaze** – A professional ecosystem for the next generation of workers
+- **Atlas** - The best way to maximise your credit card points when travelling.
 - **SentimentScraper** – A financial news sentiment analysis pipeline using GPT and VADER (Go & Snowflake)
 - **Rooted** – A nonprofit discovery platform built on IRS 990 data (Go & Next)
 - **OpenBucket** - An OpenSource and lightweight version of S3 (go) with a web-based GUI & REST API (Next & Go)
