@@ -8,7 +8,7 @@ I'm a student in Computer Science and Business Administration at Northeastern Un
 - **SentimentScraper** – A financial news sentiment analysis pipeline using GPT and VADER (Go & Snowflake)
 - **Rooted** – A nonprofit discovery platform built on IRS 990 data (Go & Next)
 - **OpenBucket** - An OpenSource and lightweight version of S3 (go) with a web-based GUI & REST API (Next & Go)
-Aegis – A centralised, fully customisable authentication platform for shared tokens, session management, cross-site access, and granular grant control.
+- **Aegis** – A centralised, fully customisable authentication platform for shared tokens, session management, cross-site access, and granular grant control.
   
 ## 🛠️ Tech Stack
 
