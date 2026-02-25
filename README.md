@@ -15,7 +15,7 @@ I'm a student in Computer Science and Business Administration at Northeastern Un
 - **Languages**: Go, TypeScript, Python, SQL, Swift, Ruby, C
 - **Frameworks**: React (Next.js), Node.js, Express
 - **Databases**: PostgreSQL, Snowflake, MariaDB
-- **Cloud/Infra**: Docker, AWS, Azure, GitHub Actions
+- **Cloud/Infra**: Docker, AWS, Azure, GCP, GitHub Actions
 
 ## How to Reach Me
 
