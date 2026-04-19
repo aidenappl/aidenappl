@@ -9,6 +9,8 @@ I'm a student in Computer Science and Business Administration at Northeastern Un
 - **Rooted** – A nonprofit discovery platform built on IRS 990 data (Go & Next)
 - **OpenBucket** - An OpenSource and lightweight version of S3 (go) with a web-based GUI & REST API (Next & Go)
 - **Forta** – A centralised, fully customisable authentication platform for shared tokens, session management, cross-site access, and granular grant control.
+- **Monitor** - Flexible and open observability platform where many services can push custom logs into a ClickHouse pool for analysis and alerts.
+- **Keyring** - Lightweight secrets manager with GitHub Actions integrations, a CLI for on-device secret hydration, alongside go and next packages for real-time secrets management.
   
 ## 🛠️ Tech Stack
 
